@@ -12,6 +12,10 @@ While the source icons in the repo are optimized far greater than the stock MDL2
 
 The color pallet is sampled from all the icons used in all the Universal Applications.
 
+## About This Fork
+
+The only change a made is automated png preview generation.
+
 # License
 
 Coming Soon... something open source that retains the 'Modern Icons' naming, but allows Individual and Commercial use.
